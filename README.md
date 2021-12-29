@@ -6,9 +6,9 @@
 
 💼   Machine Learning Engineer
 
-💼   Course Instructor for Python Basic Programming Course
+💼   Course Instructor for Python Basic Programming Course at MERI Programmers
 
-💼   Course Instructor for Machine Learning Course
+💼   Course Instructor for Machine Learning Course at MERI Programmers
 
 🌱   Learning more about Deep Learning,NLP and Artificial Intelligence.
 
