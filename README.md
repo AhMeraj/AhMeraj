@@ -1,3 +1,5 @@
+**About me
+
 🤔  Hey! I am Md. Afjal Hosen
 
 🎓   Studied Computer Science and Engineering from Hamdard University Bangladesh.
@@ -14,7 +16,9 @@
 
 ✍️   Project seller for Data Science & Machine Learning
 
-🛠 Tech Stack
+
+
+**🛠 Tech Stack
 
 💻   Python | Java | C
 
