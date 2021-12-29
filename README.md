@@ -1,4 +1,4 @@
-**About me
+**👨🏻‍💻About me**
 
 🤔  Hey! I am Md. Afjal Hosen
 
@@ -18,7 +18,7 @@
 
 
 
-**🛠 Tech Stack
+**🛠 Tech Stack**
 
 💻   Python | Java | C
 
