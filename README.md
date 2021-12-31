@@ -16,7 +16,11 @@
 
 ✍️   Project seller for Data Science & Machine Learning
 
+📱  01861803920
 
+💌  mdahmbsc01@gmail.com
+
+📶  https://www.facebook.com/King.Me.Raaj
 
 **🛠 Tech Stack**
 
