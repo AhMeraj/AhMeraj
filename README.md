@@ -24,7 +24,7 @@
 
 **🛠 Tech Stack**
 
-💻   Python | Java | C
+💻   Python | Java | C | OOP
 
 🌐   Pandas | Numpy | Seaborn |Matplotlib | Sklearn | Tensorflow | Pytorch
 
