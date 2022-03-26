@@ -4,6 +4,8 @@
 
 🎓   Studied Computer Science and Engineering from Hamdard University Bangladesh.
 
+💼   Instructor, BACE Institiute of Science & Technology (BIST Polytechnic)
+
 💼   Machine Learning Engineer
 
 💼   Course Instructor for Python Basic Programming Course at MERI Programmers
