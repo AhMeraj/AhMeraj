@@ -14,7 +14,7 @@
 
 🌱   Learning more about Deep Learning,NLP and Artificial Intelligence.
 
-✍️   Problem solver at oop
+✍️   Problem solver at OOP
 
 ✍️   Project seller for Data Science & Machine Learning
 
@@ -28,7 +28,7 @@
 
 💻   Python | Java | C | OOP
 
-🌐   Pandas | Numpy | Seaborn |Matplotlib | Sklearn | Tensorflow | Pytorch
+🌐   Pandas | Numpy | Seaborn |Matplotlib | Sklearn | Tensorflow | Django
 
 🛢   HTML | CSS | SASS | Basic JS
 
