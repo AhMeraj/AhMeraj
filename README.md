@@ -14,9 +14,7 @@
 
 🌱   Learning more about Deep Learning,NLP and Artificial Intelligence.
 
-✍️   Problem solver at OOP
-
-✍️   Project seller for Data Science & Machine Learning
+✍️   Django developer
 
 📱  01861803920
 
