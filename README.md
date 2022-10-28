@@ -1,8 +1,10 @@
 **👨🏻‍💻About me**
 
-🤔  Hey! I am Md. Afjal Hosen
+🤔   Hey! I am Md. Afjal Hosen
 
-🎓   Studied Computer Science and Engineering from Hamdard University Bangladesh.
+🎓   SEIP Certified Data Scientist
+
+🎓   Awarded Python Programmer
 
 💼   Instructor, BACE Institiute of Science & Technology (BIST Polytechnic)
 
@@ -24,10 +26,10 @@
 
 **🛠 Tech Stack**
 
-💻   Python | Java | C | OOP
+💻   Python | Java | C | OOP 
 
-🌐   Pandas | Numpy | Seaborn |Matplotlib | Sklearn | Tensorflow | Django
+🌐   Pandas | Numpy | Seaborn |Matplotlib | Sklearn | Tensorflow | Django 
 
 🛢   HTML | CSS | SASS | Basic JS
 
-🔧   Git | Anaconda | Kaggle
+🔧   Git | Anaconda | Kaggle | PowerBI | MySQL
